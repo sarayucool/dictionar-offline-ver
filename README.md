@@ -1,0 +1,1 @@
+# dictionar-offline-ver
